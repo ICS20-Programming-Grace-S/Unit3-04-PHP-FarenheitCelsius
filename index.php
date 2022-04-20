@@ -32,7 +32,7 @@
       echo '<center><img src= "./images/thermometer.jpg" alt="sphere" width="45%" height="auto"></center>';
     ?>
 
-    <!-- Formula for volume -->
+    <!-- Formula for Celsius -->
   <center><?php
 			echo "<h3>Celsius = 5/9 * (fahrenheit - 32) </h3>";
 		?></center>
