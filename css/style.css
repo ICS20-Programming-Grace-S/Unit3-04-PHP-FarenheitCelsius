@@ -1,0 +1,20 @@
+/* Created by: Grace S
+ * Created on: March 2022
+ * This CSS file defines the style for index.php
+ * ICS2O-Unit2-05-PHP-Salary
+*/
+
+body {
+	background-color: #edfafd;
+}
+
+h1 {
+  background-color: #d5f4fa;
+  text-align: center;
+  padding: 20px;
+}
+
+form {
+  background-color:#d5f4fa;
+  padding: 20px;
+}
